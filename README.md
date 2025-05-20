@@ -43,7 +43,7 @@ Flight_Fare_Prediction_model/
 2. **Create and active virtual enviroment**
 
    ```bash
-   python -m venv venv
+   python -m venv myenv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
@@ -57,15 +57,50 @@ Flight_Fare_Prediction_model/
 
 ⚙️ Features & Input Parameters
 
- *  Airline (e.g., Indigo, Jet Airways)
+   *  Airline (e.g., Indigo, Jet Airways)
 
- *  Source and Destination cities
+   *  Source and Destination cities
 
- *  Date and time of departure and arrival
+   *  Date and time of departure and arrival
 
- *  Duration of flight
+   *  Duration of flight
 
-Total number of stops
+   *  Total number of stops
+
+ 📈 Model Performance
+ 
+   * Model: Random Forest Regressor
+
+   * Evaluation Metrics:
+
+   * R² Score: ~0.95
+
+   * MAE and RMSE within acceptable bounds
+
+ 📦 Tech Stack
+ 
+   * Programming Language: Python
+
+   * Libraries: Scikit-learn, Pandas, NumPy, Streamlit, Pickle
+
+   * Deployment: Render
+
+📌 Future Enhancements
+
+   * Add real-time data input via API
+
+   * Improve UI/UX on the frontend
+
+   * Integrate CI/CD for auto-deployment
+
+🙋‍♂️ Author
+
+
+    Prabhav @TheMLengineer07
+    GitHub Profile
+
+
+
 
 
 
