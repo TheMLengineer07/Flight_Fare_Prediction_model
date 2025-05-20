@@ -17,6 +17,7 @@
 # 📂 Project Structure
 
 Flight_Fare_Prediction_model/
+
 │
 ├── app.py              # Streamlit app for UI
 ├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
