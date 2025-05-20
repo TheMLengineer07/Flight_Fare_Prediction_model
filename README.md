@@ -18,17 +18,17 @@
 
 Flight_Fare_Prediction_model/
 
-│
+ │
 
-├── app.py              # Streamlit app for UI
+ ├── app.py              # Streamlit app for UI
 
-├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
+ ├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
 
-├── requirements.txt    # Dependency list
+ ├── requirements.txt    # Dependency list
 
-├── README.md           # Documentation
+ ├── README.md           # Documentation
 
-└── data/               # (Optional) Dataset files
+ └── data/               # (Optional) Dataset files
 
 
 
