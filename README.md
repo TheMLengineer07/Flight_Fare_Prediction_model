@@ -40,16 +40,16 @@ Flight_Fare_Prediction_model/
    git clone https://github.com/TheMLengineer07/Flight_Fare_Prediction_model.git
    cd Flight_Fare_Prediction_model
 
-2  Create and active virtual enviroment
+2. **Create and active virtual enviroment**
 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3  Install dependencies
+3. **Install dependencies**
 
    pip install -r requirements.txt
 
-4  Run the app
+4. **Run the app**
 
    streamlit run app.py
 
