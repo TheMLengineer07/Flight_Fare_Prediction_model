@@ -42,7 +42,7 @@ Flight_Fare_Prediction_model/
 
 2. **Create and active virtual enviroment**
 
-  ```bash
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
@@ -53,7 +53,7 @@ Flight_Fare_Prediction_model/
 
 4. **Run the app**
 
-   streamlit run app.py
+   ``` streamlit run app.py```
 
 ⚙️ Features & Input Parameters
 
