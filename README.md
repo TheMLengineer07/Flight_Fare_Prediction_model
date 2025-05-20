@@ -19,6 +19,7 @@
 Flight_Fare_Prediction_model/
 
 │
+
 ├── app.py              # Streamlit app for UI
 
 ├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
@@ -38,4 +39,32 @@ Flight_Fare_Prediction_model/
    ```bash
    git clone https://github.com/TheMLengineer07/Flight_Fare_Prediction_model.git
    cd Flight_Fare_Prediction_model
+
+2  Create and active virtual enviroment
+
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3  Install dependencies
+
+   pip install -r requirements.txt
+
+4  Run the app
+
+   streamlit run app.py
+
+⚙️ Features & Input Parameters
+
+ *  Airline (e.g., Indigo, Jet Airways)
+
+ *  Source and Destination cities
+
+ *  Date and time of departure and arrival
+
+ *  Duration of flight
+
+Total number of stops
+
+
+
 
