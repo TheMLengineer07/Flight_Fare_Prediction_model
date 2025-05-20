@@ -42,12 +42,12 @@ Flight_Fare_Prediction_model/
 
 2. **Create and active virtual enviroment**
 
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+  ''' python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate'''
 
 3. **Install dependencies**
 
-   pip install -r requirements.txt
+   '''pip install -r requirements.txt'''
 
 4. **Run the app**
 
