@@ -101,17 +101,17 @@ Flight_Fare_Prediction_model/
 
 📝 License
 
-    This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the LICENSE file for details.
 
 
   ---
 
-  Let me know if you:
-- Want a version with badges (e.g. Streamlit live demo, GitHub stars)
-- Want help creating a logo/banner for the top of the README
-- Need to write a blog or portfolio summary based on this
+    Let me know if you:
+    - Want a version with badges (e.g. Streamlit live demo, GitHub stars)
+    - Want help creating a logo/banner for the top of the README
+    - Need to write a blog or portfolio summary based on this
 
-  Happy shipping! 💼✨
+    Happy shipping! 💼✨
 
 
 
