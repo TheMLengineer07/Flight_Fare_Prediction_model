@@ -4,7 +4,7 @@
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 - **Objective**: Predict the flight price based on several travel-related parameters.
 - **Model Used**: Random Forest Regressor
@@ -14,16 +14,16 @@
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 Flight_Fare_Prediction_model/
 │
-├── app.py # Script to run the Streamlit app
-├── flight_rf.pkl # Trained Random Forest model (handled via Git LFS)
-├── requirements.txt # Required dependencies
-├── README.md # Project documentation
-├── utils/ # (Optional) helper functions
-└── data/ # (Optional) cleaned or raw data
+├── app.py              # Streamlit app for UI
+├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
+├── requirements.txt    # Dependency list
+├── README.md           # Documentation
+└── data/               # (Optional) Dataset files
+
 
 
 
