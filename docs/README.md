@@ -12,11 +12,15 @@ Check out the deployed model here:
 
 # 📌 Project Overview
 
-- **Objective**: Predict the flight price based on several travel-related parameters.
-- **Model Used**: Random Forest Regressor
-- **Framework**: Python, Scikit-learn, Pandas, NumPy
-- **Deployment**: Deployed on Render (or insert actual deployment link if available)
-- **Frontend**: Streamlit (optional, if applicable)
+ **Objective**: Predict the flight price based on several travel-related parameters.
+  
+ **Model Used**: Random Forest Regressor
+ 
+ **Framework**: Python, Scikit-learn, Pandas, NumPy
+ 
+ **Deployment**: Deployed on Render (or insert actual deployment link if available)
+ 
+ **Frontend**: Streamlit (optional, if applicable)
 
 ---
 
@@ -98,8 +102,11 @@ Flight_Fare_Prediction_model/
  ### 🌐 Steps to Deploy:
  
   1. Push your latest code to GitHub.
+   
   2. Log in to **Render** and create a **new Web Service**.
+   
   3. Link your GitHub repository and configure build & start commands.
+   
   4. Deploy and monitor logs.
 
 🔗 **Live Deployment**: [Flight Fare Prediction](https://flight-price-prediction-api.herokuapp.com/)
