@@ -1,6 +1,7 @@
 # ✈️ Flight Fare Prediction Model
 
-* This project is a machine learning-based solution to predict flight fares using various input features like airline, source, destination, departure time, duration, number of stops, and more. 
+* This project is a machine learning-based solution to predict flight fares using various input features like airline, source, destination, departure 
+  time, duration, number of stops, and more. 
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
 
