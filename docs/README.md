@@ -6,21 +6,22 @@
   
 ## 🚀 Live Demo
 Check out the deployed model here:  
+
 👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
 
 
 
 # 📌 Project Overview
 
- **Objective**: Predict the flight price based on several travel-related parameters.
+- **Objective**: Predict the flight price based on several travel-related parameters.
   
- **Model Used**: Random Forest Regressor
+- **Model Used**: Random Forest Regressor
  
- **Framework**: Python, Scikit-learn, Pandas, NumPy
+- **Framework**: Python, Scikit-learn, Pandas, NumPy
  
- **Deployment**: Deployed on Render (or insert actual deployment link if available)
+- **Deployment**: Deployed on Render (or insert actual deployment link if available)
  
- **Frontend**: Streamlit (optional, if applicable)
+- **Frontend**: Streamlit (optional, if applicable)
 
 ---
 
