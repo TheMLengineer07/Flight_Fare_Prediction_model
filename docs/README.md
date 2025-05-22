@@ -15,7 +15,7 @@
 
    ![App Screenshot](https://github.com/TheMLengineer07/Flight_Fare_Prediction_model/blob/master/docs/Screenshot%202025-05-22%20143709.png)
 
-
+   ![App Screenshot](https://github.com/TheMLengineer07/Flight_Fare_Prediction_model/blob/master/docs/Screenshot%202025-05-22%20143746.png)
    
 
 
