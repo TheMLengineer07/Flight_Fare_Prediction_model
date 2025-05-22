@@ -1,14 +1,19 @@
 # ✈️ Flight Fare Prediction Model
 
+
 * This project is a machine learning-based solution to predict flight fares using various input features like airline, source, destination, departure 
   time, duration, number of stops, and more. 
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
 ## 🚀 Live Demo
 Check out the deployed model here:  
-
 👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
 
+### 🔍 App Interface Preview
+![App Screenshot](docs/images/demo_screenshot.png)
+
+
+   
 
 
 # 📌 Project Overview
