@@ -11,9 +11,9 @@
    
 👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
 
-### 🔍 App Interface Preview
+ ### 🔍 App Interface Preview
 
-  ![App Screenshot](docs/images/demo_screenshot.png)
+   ![App Screenshot](docs/images/statis)
 
 
    
