@@ -4,6 +4,11 @@
   time, duration, number of stops, and more. 
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
+## 🚀 Live Demo
+Check out the deployed model here:  
+👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
+
+
 
 # 📌 Project Overview
 
@@ -85,6 +90,20 @@ Flight_Fare_Prediction_model/
    * Libraries: Scikit-learn, Pandas, NumPy, Streamlit, Pickle
 
    * Deployment: Render
+
+ ## 🚀 Deployment on Render
+ 
+   * This project is deployed on **Render**, allowing real-time flight fare predictions.
+
+ ### 🌐 Steps to Deploy:
+ 
+  1. Push your latest code to GitHub.
+  2. Log in to **Render** and create a **new Web Service**.
+  3. Link your GitHub repository and configure build & start commands.
+  4. Deploy and monitor logs.
+
+🔗 **Live Deployment**: [Flight Fare Prediction](https://flight-price-prediction-api.herokuapp.com/)
+
 
 📌 Future Enhancements
 
