@@ -6,11 +6,14 @@
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
 ## 🚀 Live Demo
-Check out the deployed model here:  
+
+ * Check out the deployed model here: 
+   
 👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
 
 ### 🔍 App Interface Preview
-![App Screenshot](docs/images/demo_screenshot.png)
+
+  ![App Screenshot](docs/images/demo_screenshot.png)
 
 
    
