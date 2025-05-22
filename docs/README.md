@@ -1,21 +1,34 @@
 # ✈️ Flight Fare Prediction Model
 
+
 * This project is a machine learning-based solution to predict flight fares using various input features like airline, source, destination, departure 
   time, duration, number of stops, and more. 
   The model was trained using historical flight data and deployed for real-time fare prediction.
   
 ## 🚀 Live Demo
-Check out the deployed model here:  
+
+ * Check out the deployed model here: 
+   
 👉 [Flight Fare Prediction App](https://flight-fare-prediction-model-rcoz.onrender.com)
 
+ ### 🔍 App Interface Preview
+
+   ![App Screenshot](docs/images/statis)
+
+
+   
 
 
 # 📌 Project Overview
 
 - **Objective**: Predict the flight price based on several travel-related parameters.
+  
 - **Model Used**: Random Forest Regressor
+ 
 - **Framework**: Python, Scikit-learn, Pandas, NumPy
+ 
 - **Deployment**: Deployed on Render (or insert actual deployment link if available)
+ 
 - **Frontend**: Streamlit (optional, if applicable)
 
 ---
@@ -24,17 +37,17 @@ Check out the deployed model here:
 
 Flight_Fare_Prediction_model/
 
- │
+    │
 
- ├── app.py              # Streamlit app for UI
+    ├── app.py              # Streamlit app for UI
 
- ├── flight_rf.pkl       # Trained ML model (Git LFS tracked)
+    ├ ── flight_rf.pkl       # Trained ML model (Git LFS tracked)
 
- ├── requirements.txt    # Dependency list
+    ├── requirements.txt    # Dependency list
 
- ├── README.md           # Documentation
+    ├── README.md           # Documentation
 
- └── data/               # (Optional) Dataset files
+    └── data/               # (Optional) Dataset files
 
 
 
@@ -98,8 +111,11 @@ Flight_Fare_Prediction_model/
  ### 🌐 Steps to Deploy:
  
   1. Push your latest code to GitHub.
+   
   2. Log in to **Render** and create a **new Web Service**.
+   
   3. Link your GitHub repository and configure build & start commands.
+   
   4. Deploy and monitor logs.
 
 🔗 **Live Deployment**: [Flight Fare Prediction](https://flight-price-prediction-api.herokuapp.com/)
